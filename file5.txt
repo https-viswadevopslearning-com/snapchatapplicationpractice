@@ -1,0 +1,4 @@
+i have to commit this file directly to local repository without adding into staging area.
+u can use git commit -a -m "message"==>whatever untracked files from staging area will commit in local repository
+
+after adding to staging env, if you update anything then not required add again , will commit directly with -a option
